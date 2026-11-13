@@ -1,0 +1,6 @@
+# Só o protocolo vai para o repositório. Dados brutos, CSV do pré-teste e arquivos de trabalho ficam fora.
+*
+!.gitignore
+!README.md
+!Protocolo_Survey_DORA.pdf
+!Protocolo_Survey_DORA.docx
